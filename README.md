@@ -19,6 +19,13 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 [![Watch the video](https://https://www.youtube.com/watch?v=W-krqeIwtpo/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) 
 
 
+## Vidéos de la chaîne Linux Tips
+
+- Introduction to Linux Commands
+[![Linux Tips - Introduction to Linux Commands](https://img.youtube.com/vi/tzRXJh9FZtY/maxresdefault.jpg)](https://www.youtube.com/watch?v=tzRXJh9FZtY)
+
+- How to Install and Use Linux
+[![Linux Tips - How to Install and Use Linux](https://img.youtube.com/vi/LI7F-QtvZiQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LI7F-QtvZiQ)
 
 
 
