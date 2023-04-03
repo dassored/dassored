@@ -16,14 +16,19 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 
 ## Mes chaînes YouTube préférées
 
-[![Nom de la chaîne 1](https://i.imgur.com/abc123.jpg)](lien_vers_la_chaine_youtube_1)
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
-Description de la chaîne 1
-
-[![Nom de la chaîne 2](https://i.imgur.com/def456.jpg)](lien_vers_la_chaine_youtube_2)
-
-Description de la chaîne 2
-
-[![Nom de la chaîne 3](https://i.imgur.com/ghi789.jpg)](lien_vers_la_chaine_youtube_3)
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
