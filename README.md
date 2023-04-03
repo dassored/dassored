@@ -9,13 +9,6 @@ Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma
 
 Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient des informations sur mon parcours, mes expériences et mes réalisations, ainsi que des exemples de projets personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité.
 
-## Table des matières
-
-- [Expérience professionnelle](#expérience-professionnelle)
-- [Formation](#formation)
-- [Compétences](#compétences)
-- [Projets personnels](#projets-personnels)
-- [Contact](#contact)
 
 ## Expérience professionnelle
 
@@ -26,7 +19,7 @@ Je n'ai pas encore travaillé dans le domaine de la cybersécurité, mais j'ai u
 - Cours en ligne sur la cybersécurité, sur des plateformes comme udemy
 - Certificats cisco IT (technobelle)
 
-## Compétences
+# 🛠 Skills
 
 - Connaissances de base en matière en réseaux, 
 - Compétences base de programmation en Python, bash  avec une connaissance de base en HTML, CSS et JavaScript
@@ -71,11 +64,6 @@ N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez e
 
 
 
-## 🛠 Skills
-Python, Htlm, bash ,
-
-
-## Skills IT
 
 
 
