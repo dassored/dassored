@@ -27,3 +27,5 @@ Description de la chaîne 2
 [![Nom de la chaîne 3](https://i.imgur.com/ghi789.jpg)](lien_vers_la_chaine_youtube_3)
 
 Description de la chaîne 3
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
