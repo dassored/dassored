@@ -33,7 +33,11 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
 
 
-
+- uses: lowlighter/metrics@latest
+  with:
+    template: repository
+    user: lowlighter
+    repo: metrics
 
 name: Example
 uses: lowlighter/metrics@latest
