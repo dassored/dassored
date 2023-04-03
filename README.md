@@ -6,7 +6,7 @@ Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma
 
 
 ## Mes compétences
-
+-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white,https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black,https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 - Langages de programmation : Python, Java, JavaScript, C++
 - 
 
