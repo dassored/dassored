@@ -26,4 +26,4 @@ Description de la chaîne 2
 
 [![Nom de la chaîne 3](https://i.imgur.com/ghi789.jpg)](lien_vers_la_chaine_youtube_3)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
