@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Je suis un développeur passionné avec une expérience dans plusieurs langages de programmation et technologies. J'aime apprendre de nouvelles choses et contribuer à des projets open source.
+Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
 
 ## Mes compétences
 
