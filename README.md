@@ -30,11 +30,11 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dassored)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?dassored=dassored)](https://https://github.com/dassored/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?dassored=Ashutosh00710)](https://github.com/dassored/github-readme-activity-graph)
 
 
 
