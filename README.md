@@ -16,5 +16,11 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 
 ## Mes chaînes YouTube préférées
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) 
+[![Watch the video](https://https://www.youtube.com/watch?v=W-krqeIwtpo/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) 
+
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
