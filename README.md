@@ -33,28 +33,8 @@ Je suis un développeur passionné avec une expérience dans plusieurs langages 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
 
 
-- uses: lowlighter/metrics@latest
-  with:
-    template: repository
-    user: lowlighter
-    repo: metrics
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: repository
-  filename: metrics.repository.svg
-  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-  user: lowlighter
-  repo: metrics
-  plugin_lines: yes
-  plugin_followup: yes
-  plugin_projects: yes
-  plugin_projects_repositories: lowlighter/metrics/projects/1
-
-
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?dassored=Ashutosh00710)](https://github.com/dassored/github-readme-activity-graph)
 
 
 
