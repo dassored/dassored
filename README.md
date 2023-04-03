@@ -12,11 +12,6 @@ Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma
 ---
 [![](https://visitcount.itsvg.in/api?id=dassored&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
 
 ## Mes compétences
 
