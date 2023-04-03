@@ -26,5 +26,4 @@ Description de la chaîne 2
 
 [![Nom de la chaîne 3](https://i.imgur.com/ghi789.jpg)](lien_vers_la_chaine_youtube_3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dassored)](https://https://github.com/dassored)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur)](https://github.com/dassored)
