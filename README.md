@@ -1,12 +1,27 @@
 # Bienvenue sur mon profil GitHub !
 
+
+# 💫 About Me:
+Mon portfolio reflète mon objectif de devenir analyste en cybersécurité <br>et ma passion pour la technologie. Vous y trouverez mes réalisations et <br>mes projets personnels qui témoignent de ma détermination à acquérir les<br> compétences nécessaires pour assurer la sécurité des systèmes informatiques.<br><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dassored&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dassored&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dassored&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dassored&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
 
 ## Mes compétences
 
 - Langages de programmation : Python, Java, JavaScript, C++
-- Frameworks : Flask, React, Angular, Django, Spring
-- Bases de données : MySQL, MongoDB, PostgreSQL, SQLite
+- 
 
 ## Mes projets récents
 
@@ -14,27 +29,8 @@ Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma
 - [Nom du projet](lien_vers_le_projet) : Description du projet
 - [Nom du projet](lien_vers_le_projet) : Description du projet
 
-## Mes chaînes YouTube préférées
-
-[![Watch the video](https://https://www.youtube.com/watch?v=W-krqeIwtpo/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) 
 
 
-## Vidéos de la chaîne Linux Tips
-
-- Introduction to Linux Commands
-[![Linux Tips - Introduction to Linux Commands](https://img.youtube.com/vi/tzRXJh9FZtY/maxresdefault.jpg)](https://www.youtube.com/watch?v=tzRXJh9FZtY)
-
-- How to Install and Use Linux
-[![Linux Tips - How to Install and Use Linux](https://img.youtube.com/vi/LI7F-QtvZiQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=LI7F-QtvZiQ)
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassored)](https://github.com/dassored/github-readme-stats)
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?dassored=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
