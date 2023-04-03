@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Mon portfolio reflète mon objectif de devenir analyste en cybersécurité <br>et ma passion pour la technologie. Vous y trouverez mes réalisations et <br>mes projets personnels qui témoignent de ma détermination à acquérir les<br> compétences nécessaires pour assurer la sécurité des systèmes informatiques.<br><br>
+Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dassored&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
