@@ -29,3 +29,5 @@ Description de la chaîne 2
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
 
 
+[![GitHub stars](https://img.shields.io/github/stars/votre-nom-utilisateur/votre-projet.svg)](https://github.com/votre-nom-utilisateur/votre-projet/stargazers)
+
