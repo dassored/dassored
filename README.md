@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient serie de différents SCRIPTS personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité.
+Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient serie de différents SCRIPTS personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité et en techologie de l'information.
 
 # Mon portfolio pour une formation en cybersécurité
 
