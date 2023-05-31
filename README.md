@@ -3,11 +3,12 @@
 # Project Title
 
 ## 🚀 About Me
+
+Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient serie de différents SCRIPTS personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité.
+
+# Mon portfolio pour une formation en cybersécurité
+
 Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
-
-# Mon dossier de candidature pour une formation en cybersécurité
-
-Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient des informations sur mon parcours, mes expériences et mes réalisations, ainsi que des exemples de projets personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité.
 
 
 ## Expérience professionnelle
