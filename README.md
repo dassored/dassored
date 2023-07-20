@@ -17,16 +17,16 @@ Je n'ai pas encore travaillé dans le domaine de la cybersécurité, mais j'ai u
 
 ## Formation
 
-- Cours en ligne sur la cybersécurité, sur des plateformes comme udemy
-- Certificats cisco IT (technobelle)
+- Cours en ligne sur la cybersécurité, sur des plateformes comme udemy,cisco
+- Certificats cisco IT (technobel)
 
 # 🛠 Skills
 
 - Connaissances de base en matière en réseaux, 
 - Compétences base de programmation en Python, bash  avec une connaissance de base en HTML CSS .
--  Expérience windose , linux, Mac os
--  Expérience avec les outils  phishing ,SocialBox-Termux , Zphishe
-- Expérience avec les outils d'analyse de sécurité, tels que Nessus, Nmap, john the ripper, Wireshark et sherlock 
+-  Expérience windose , linux, Mac os.
+-  Expérience avec les outils  phishing ,SocialBox-Termux , Zphishe.
+- Expérience avec les outils d'analyse de sécurité, tels que Nessus, Nmap, john the ripper, Wireshark et sherlock .
 
 ## Projets personnels
 
