@@ -23,16 +23,16 @@ Je n'ai pas encore travaillé dans le domaine de la cybersécurité, mais j'ai u
 # 🛠 Skills
 
 - Connaissances de base en matière en réseaux, 
-- Compétences base de programmation en Python, bash  avec une connaissance de base en HTML, CSS et JavaScript
+- Compétences base de programmation en Python, bash  avec une connaissance de base en HTML CSS .
 -  Expérience windose , linux, Mac os
 -  Expérience avec les outils  phishing ,SocialBox-Termux , Zphishe
 - Expérience avec les outils d'analyse de sécurité, tels que Nessus, Nmap, john the ripper, Wireshark et sherlock 
 
 ## Projets personnels
 
-- Un script Python pour la détection de failles de sécurité dans les réseaux
+- Un script Python pour osint
 - Un outil d'analyse de sécurité personnalisé pour les systèmes Windows
-- Un rapport de recherche sur les dernières tendances en matière de cybersécurité, y compris des conseils pour les particuliers et les petites entreprises
+  
 
 ## Contact
 
