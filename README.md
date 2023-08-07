@@ -4,12 +4,11 @@
 
 ## 🚀 About Me
 
-Je suis un passionné de la technologie et de la cybersécurité, et je suis actuellement à la recherche d'une formation pour acquérir les compétences nécessaires pour réussir dans ce domaine passionnant. Ce projet GitHub contient serie de différents Script personnels que j'ai réalisés pour améliorer mes compétences en matière de cybersécurité et en techologie de l'information.
+Passionné par la technologie et la cybersécurité, je suis actuellement en quête d'une formation afin d'acquérir les compétences nécessaires pour exceller dans ce domaine captivant. Ce projet GitHub regroupe plusieurs scripts personnels que j'ai créés dans le but d'améliorer mes compétences en cybersécurité et en technologies de l'information.
 
 # Mon portfolio pour une formation en cybersécurité
 
-Mon portfolio reflète mon objectif de devenir analyste en cybersécurité et ma passion pour la technologie. Vous y trouverez mes réalisations et mes projets personnels qui témoignent de ma détermination à acquérir les compétences nécessaires pour assurer la sécurité des systèmes informatiques."
-
+Mon portfolio illustre mon ambition de devenir analyste en cybersécurité ainsi que ma passion pour la technologie. Vous y découvrirez mes réalisations et projets personnels, témoignant de ma détermination à acquérir les compétences essentielles pour garantir la sécurité des systèmes informatiques.
 
 ## Expérience professionnelle
 
@@ -24,8 +23,8 @@ Je n'ai pas encore travaillé dans le domaine de la cybersécurité, mais j'ai u
 
 - Connaissances de base en matière en réseaux, 
 - Compétences base de programmation en Python, bash  avec une connaissance de base en HTML CSS .
--  Expérience windose , linux, Mac os.
--  Expérience avec les outils  phishing ,SocialBox-Termux , Zphishe.
+- Expérience windose , Linux, Mac os.
+- Expérience avec les outils  phishing ,SocialBox-Termux , Zphishe.
 - Expérience avec les outils d'analyse de sécurité, tels que Nessus, Nmap, john the ripper, Wireshark et sherlock .
 
 ## Projets personnels
