@@ -1,6 +1,6 @@
 
 
-# CyberSentinel Academy: Elevating Protectors for the Cyberespace
+# CyberSentinel Academy: Futur Protectors of the Cyberespace
 
 ## 🚀 About Me
 
