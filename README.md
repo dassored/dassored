@@ -1,6 +1,6 @@
 
 
-# CyberSentinel Academy: Empowering Digital Guardians internet of Tomorrow
+# CyberSentinel Academy: Elevating Protectors for the Cyberespace
 
 ## 🚀 About Me
 
