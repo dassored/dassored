@@ -1,6 +1,6 @@
 
 
-# Project Title
+# CyberSentinel Academy: Empowering Digital Guardians internet of Tomorrow
 
 ## 🚀 About Me
 
